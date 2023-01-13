@@ -10,7 +10,7 @@ This app helps keep track of employees in a company. The user is able to view an
 - [MIT License](#mit-license)
   
 ## Application Preview
-[Click here to see a video preview of the application's functionality.](linkhere)
+[Click here to see a video preview of the application's functionality.](https://drive.google.com/file/d/1FW2kebqBXqBqnputN_NaDtkFSwsFebF-/view?usp=sharing)
 
 ## Important Links
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
